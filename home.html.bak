@@ -112,7 +112,7 @@
       </div>      
       <hr class="featurette-divider">
       <!-- Example row of columns -->
-      <div class="row divCenter">
+      <div class="row">
         <div class="col-md-3">
           <h2>自动</h2>
           <p>一劳永逸<br>全年无忧<br> </p>
